@@ -1,4 +1,4 @@
-# 💳 Credit Scoring with Random Forest
+# 💳 Random Forest for Credit Scoring
 
 This project implements a supervised machine learning pipeline using a Random Forest Classifier to predict the creditworthiness of loan applicants based on their financial history and demographic information. The model is trained on the numerical version of the German Credit Dataset.
 
